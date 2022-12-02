@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Eray
 - 👀 I’m interested in Full-Stack Web and Mobile Development, latest technologies, Automation, Scripting.
-- 🌱 I’m currently learning all kinds of Back-End and Front-End stacks, data analysis and more!
+- 🚀 I'm building Web Apps, E-Commerce Sites, Mobile Apps.
+- 🌱 I’m currently learning all kinds of Back-End and Front-End Stacks, Data Analysis, Automation, Scripting and more!
 
 - 📫 How to reach me: [Eray Okutay](http://www.erayokutay.com/) or mailto:erayokutay@hotmail.com
 
