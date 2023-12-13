@@ -5,7 +5,7 @@
 - 👀 I am a Full-Stack developer.
 - ⚛️ I improve my tech stack constantly.
 - 🚀 I'm building Web Apps, and I do DevOps, Automation, and Scripting.
-- 🌱 Each day, I'm expanding my knowledge and maturing my understanding of web architecture and technologies.
+- 🌱 Each day, I'm expanding my knowledge of web architecture and technologies.
 
 
 ## Socials
