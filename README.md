@@ -2,10 +2,8 @@
 
 
   <a href="https://www.linkedin.com/in/erayokutay/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-- 👀 I am a Full-Stack developer.
-- ⚛️ I improve my tech stack constantly.
+- 👀 I am a Software Engineer.
 - 🚀 I'm building Web Apps, and I do DevOps, Automation, and Scripting.
-- 🌱 Each day, I'm expanding my knowledge of web architecture and technologies.
 
 
 ## Socials
