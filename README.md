@@ -3,7 +3,7 @@
 
   <a href="https://www.linkedin.com/in/erayokutay/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - 👀 I am a Software Engineer.
-- 🚀 I'm building Web Apps, and I do DevOps, Automation, and Scripting.
+- 🚀 I am working on Web Apps, DevOps, Automation, Security and Scripting.
 
 
 ## Socials
